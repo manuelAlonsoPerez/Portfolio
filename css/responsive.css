@@ -185,4 +185,8 @@ html, .projects {
     .foot {
         font-size: 0.8em;
     }
+
+    .picture{
+        height: 675px;
+    }
 }
