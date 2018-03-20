@@ -35,9 +35,9 @@ a {
     text-transform: uppercase;
     font-family: Quicksand,Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
     font-style: normal;
-	font-variant: normal;
-	font-weight: 400;
-	line-height: 26.4px;
+	  font-variant: normal;
+	  font-weight: 400;
+	  line-height: 26.4px;
 }
 
 .title {
