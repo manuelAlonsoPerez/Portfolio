@@ -1,5 +1,5 @@
 html, .projects {
-    height: 100%
+    height: 100%;
 }
 
 .container, .projects {
@@ -19,7 +19,7 @@ html, .projects {
 
 .foot {
     height: 15px;
-    width: 100%;
+    width: inherit;
     position: absolute;
     left: 2vw;
     bottom: 0;
@@ -93,6 +93,7 @@ html, .projects {
 @media screen and (max-width: 500px) {
 
     .foot {
+        width: 95%;
         font-size: 2vw;
         text-align: center;
     }
@@ -140,7 +141,7 @@ html, .projects {
     .project_container {
         width: calc((100% - 20px)/2);
         padding-right: 10px;
-        height: 80%
+        height: 80%;
     }
 
     .project_title {
